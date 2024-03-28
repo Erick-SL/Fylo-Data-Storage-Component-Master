@@ -8,7 +8,7 @@ body{
     color: white;
     background-color: hsl(229, 57%, 11%);
     width: 100vw;
-    max-height: 100vh;
+    height: 100vh;
     display: flex;
     justify-content: left;
     align-items: center;
