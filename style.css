@@ -8,7 +8,7 @@ body{
     color: white;
     background-color: hsl(229, 57%, 11%);
     width: 100vw;
-    height: 100vh;
+    max-height: 100vh;
     display: flex;
     justify-content: left;
     align-items: center;
@@ -164,7 +164,6 @@ article.info .gb span{
         background-position: center center;
         background-size: cover;
         background-attachment: fixed;
-        max-height: 100%;
     }
     #fundo{
         display: none;
