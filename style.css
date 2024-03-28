@@ -139,13 +139,13 @@ article.info .gb span{
 }
 
 .prog .bar span{
+    margin: 1px 0;
     border-radius: 10px;
     position: absolute;
     width: 15px;
     height: 15px;
     background-color: white;
-    animation: progress-animation-left 6s forwards;
-    margin-left: 96%;
+    margin-left: 97%;
 }
 
 .flex{
