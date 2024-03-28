@@ -164,7 +164,6 @@ article.info .gb span{
         background-position: center center;
         background-size: cover;
         background-attachment: fixed;
-        height:100%;
     }
     #fundo{
         display: none;
