@@ -161,10 +161,10 @@ article.info .gb span{
     body{
         background-image: url(./images/bg-mobile.png);
         background-repeat: no-repeat;
-        background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
         background-attachment: fixed;
+        height:100%;
     }
     #fundo{
         display: none;
@@ -210,7 +210,7 @@ article.info .gb span{
     section{
         width: 100%;
         align-items: center;
-       margin-right: 100px;
+        margin-right: 100px;
     }
     
     article.box{
